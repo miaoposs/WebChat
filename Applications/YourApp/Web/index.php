@@ -27,7 +27,7 @@
                     <br>
                     <button type="button" class="btn btn-warning clear" onclick="clear_dialog()">clear</button>
 
-                    <!-- Split button --> 
+                    <!-- Split button -->
                     <div class="btn-group" style="float:right">
                       <button type="button" class="btn btn-info" onclick="onSubmit()">Commit</button>
                       <button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown">
